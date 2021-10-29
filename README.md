@@ -1,7 +1,7 @@
 ### Salve, Digguinho aqui!
 
-- 🌱 Estudando Python...
-- 😄 Pronouns: Rei/Príncipe
+- Estudando Python...
+- Pronouns: Rei/Príncipe
 
 <div>
   <a href="https://beacons.ai/c-Campos-ss">

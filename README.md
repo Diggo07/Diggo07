@@ -1,7 +1,7 @@
-### Salve, Digguinho aqui!
+### Salve, Diggo aqui!
 
 - Estudando Python...
-- Pronouns: Rei/Príncipe
+- Pronouns: Mister/Prince
 
 <div>
   <a href="https://beacons.ai/c-Campos-ss">
